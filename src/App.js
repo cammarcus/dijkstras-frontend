@@ -108,7 +108,7 @@ function App() {
       </main>
       <div className="mt-8 text-md text-gray-600 p-4">
         <p>This application uses Dijkstra's algorithm to find the shortest path between two words by changing one letter at a time. Inspired by the game <a href="https://wordwormdormdork.com/" className="text-blue-500 underline" target="_blank" rel="noopener noreferrer">Weaver</a>.</p>
-        <p>Built with React, styled with Tailwind CSS, and powered by a Node.js and Express backend running on an AWS EC2 instance. The backend handles the logic and calculations, while the frontend provides a user-friendly interface for interaction.</p>
+        <p>Built with React, styled with Tailwind CSS, and powered by a Node.js and Express. Both the frontend and backend are running on an AWS EC2 instance. The backend handles the logic and calculations, while the frontend provides a user-friendly interface for interaction.</p>
       </div>
     </div>
   );
